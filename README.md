@@ -1,5 +1,5 @@
 CloudDesk AI Support Agent
-
+link to live app in Streamlit: https://cloud-desk-agent-fkny6xmyiqu5jp5jfqm4bp.streamlit.app/?sid=63523dc9fc5248d89fc1476cf4210d59
 An AI customer support chatbot for "CloudDesk", a "fictional" project-management SaaS company. It answers questions using only a local documentation set (Retrieval-Augmented Generation), shows its sources, declines when the docs don't cover the question, and escalates to a (demo) support ticket.
 
 Portfolio prototype, not a production service. CloudDesk, its prices and policies are invented. Tickets are stored locally in SQLite and are "not" sent to a real support team. No real customers, deployments or performance metrics are claimed.
